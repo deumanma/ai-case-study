@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-[Hugging Face](https://huggingface.co/) is an open source ML (Machine Learning) and data science platform that helps users build, deploy, and train ML modules[^1]. Hugging face is often called the GitHub of ML because it lets developers share and test their work openly.
+[Hugging Face](https://huggingface.co/) is an open source ML (Machine Learning) and data science platform that helps users build, deploy, and train ML modules[<sup>1</sup>]. Hugging face is often called the GitHub of ML because it lets developers share and test their work openly.
 
 Founded in 2016 by three French developers, Clement Delangue who is the current CEO, Julien Chaumond, and Thomas Wolf. It was originally created as a chatbot for teenagers. After open sourcing their model they pivoted to being a platform for ML.[^2]
 
@@ -138,7 +138,7 @@ Democratizing the field of AI cannot stop at open sourcing the databases and cod
 
 ## References
 
-[^1] : https://www.techtarget.com/whatis/definition/Hugging-Face 
+[<sup>1</sup>] : https://www.techtarget.com/whatis/definition/Hugging-Face 
 
 [^2] : https://en.wikipedia.org/wiki/Hugging_Face#:~:text=The%20company%20was%20founded%20in,chatbot%20app%20targeted%20at%20teenagers.
 

@@ -2,9 +2,9 @@
 
 ## Overview and Origin
 
-[Hugging Face](https://huggingface.co/) is an open source ML (Machine Learning) and data science platform that helps users build, deploy, and train ML modules[<sup>1</sup>]. Hugging face is often called the GitHub of ML because it lets developers share and test their work openly.
+[Hugging Face](https://huggingface.co/) is an open source ML (Machine Learning) and data science platform that helps users build, deploy, and train ML modules <sup>1</sup>. Hugging face is often called the GitHub of ML because it lets developers share and test their work openly.
 
-Founded in 2016 by three French developers, Clement Delangue who is the current CEO, Julien Chaumond, and Thomas Wolf. It was originally created as a chatbot for teenagers. After open sourcing their model they pivoted to being a platform for ML.[^2]
+Founded in 2016 by three French developers, Clement Delangue who is the current CEO, Julien Chaumond, and Thomas Wolf. It was originally created as a chatbot for teenagers. After open sourcing their model they pivoted to being a platform for ML.<sup>2</sup>
 
 
 **How did the idea for the company come about?**
@@ -19,7 +19,7 @@ Beginning as a personalized tamagotchi like friend powered by NLP to train the c
 > “We released things without thinking too much about it and the
 > community blew up, as a surprise even to us,” Delangue said.
 
-Hugging Face got its first investor in 2019 from Lux investors after meeting with Delangue once. The term sheet had a $80 million valuation. From there usage has continued to skyrocket and the developer community has built more than 100,000 ML models on Hugging Face. [^3]
+Hugging Face got its first investor in 2019 from Lux investors after meeting with Delangue once. The term sheet had a $80 million valuation. From there usage has continued to skyrocket and the developer community has built more than 100,000 ML models on Hugging Face.<sup>3</sup>
 
 The company is funded by investors and has raised a total of 395 million from 2019 through now, and their company is currently valued at 4.5 billion. Managing to maintain strong investor confidence even in the face of current economic headwinds that has created more cautious investing in the tech field.
 
@@ -35,7 +35,7 @@ They are also offering a paid enterprise version for companies to use the pre-tr
 
 Customers of Hugging Face are developers and companies looking to use ML and NLP models but that don’t have the resources to create these models from scratch. 
 
-The market size of ML is estimated to be at 158 Billion by the end of 2023. When looking at Hugging Faces current users is over 2 million [^4] with 10,000 paying customers. Theoretical their portion of the market size could be 80-90% as the world of development moves to the default standard of machine learning to build new technology.[^5]
+The market size of ML is estimated to be at 158 Billion by the end of 2023. When looking at Hugging Faces current users is over 2 million<sup>4</sup> with 10,000 paying customers. Theoretical their portion of the market size could be 80-90% as the world of development moves to the default standard of machine learning to build new technology.<sup>5</sup>
 
 > “I don’t really see a world where machine learning becomes the 
 > default way to build technology and where Hugging Faces is the No. 1
@@ -44,11 +44,11 @@ The market size of ML is estimated to be at 158 Billion by the end of 2023. When
 
 **Market Differentiator**
 
-As of August 2023 Hugging face has a library of 120,000 pre-trained models and 20,000 datasets. [^6] Which is the largest open-source library of ML, NLP, and AI models. Their position in the market currently and being the first to gain this large of a community of contributors will make it hard for anyone in the space to compete.
+As of August 2023 Hugging face has a library of 120,000 pre-trained models and 20,000 datasets.<sup>6</sup>  Which is the largest open-source library of ML, NLP, and AI models. Their position in the market currently and being the first to gain this large of a community of contributors will make it hard for anyone in the space to compete.
 
-***Tech Stack** 
+**Tech Stack** 
 
-Hugging face uses 52 technologies in its tech stack across languages and frameworks, development, libraries, application hosting, data stores, application utilities, analytics, assets and media, design, collaboration, communications, back office, marketing and sales tools, and payments. Some of the most notable technologies are [^7]:
+Hugging face uses 52 technologies in its tech stack across languages and frameworks, development, libraries, application hosting, data stores, application utilities, analytics, assets and media, design, collaboration, communications, back office, marketing and sales tools, and payments. Some of the most notable technologies are<sup>7</sup> :
 
 - Node.js
 - JavaScript
@@ -83,19 +83,19 @@ Hugging Face is in the field of Machine Learning, Natural Language Processing, A
 
 **ML Trends and Innovation in the last 5 years** 
 
-Focusing on the field of ML some of the major innovations in the last 5 years include: the discovery of transformer architecture that allowed for faster parallel training of neural networks on sequential data in 2017, a team a Google Brain is credited with the discovery. Although this built on work in the field of NLP started in the 1990s started by Elman network.[^8]
+Focusing on the field of ML some of the major innovations in the last 5 years include: the discovery of transformer architecture that allowed for faster parallel training of neural networks on sequential data in 2017, a team a Google Brain is credited with the discovery. Although this built on work in the field of NLP started in the 1990s started by Elman network.<sup>8</sup>
 
 No-Code ML, now developers do not have to model, design, collect and label data, train the model and re-test models there are pre built models and algorithms that developers can use to move faster with no coding required. Simple drag and drop user interfaces it makes data science and machine learning more accessible to smaller companies and teams that don’t have the resources to staff a full data science team. 
 
-TinyML uses smaller scale applications for a more narrowed scope in the data and algorithms they are using to create more targeted results. This reduces the need for large power consumption on servers, lower latency in results. They use IoT devices and TinyML algorithm to track and make predictions and a narrower set of collected data. For example instead of searching the entire internet it would be focused only on data about birds. These applications are used in healthcare, agriculture, and industrial settings. [^9]
+TinyML uses smaller scale applications for a more narrowed scope in the data and algorithms they are using to create more targeted results. This reduces the need for large power consumption on servers, lower latency in results. They use IoT devices and TinyML algorithm to track and make predictions and a narrower set of collected data. For example instead of searching the entire internet it would be focused only on data about birds. These applications are used in healthcare, agriculture, and industrial settings.<sup>9</sup>
 
 **What are the other major companies in this field?**
 
-There are several big companies that are in the ML, NLP, and AI field that offer similar services to Hugging Face. While some do offer open source libraries. Confluent platform offers open source built around Apache Kafka, but they have their own community license agreement that excludes it from the Open Source Initiative license approval. Even though you can freely download, modify, and redistribute code due to its specific community license it’s not strictly considered open source. [^10]
+There are several big companies that are in the ML, NLP, and AI field that offer similar services to Hugging Face. While some do offer open source libraries. Confluent platform offers open source built around Apache Kafka, but they have their own community license agreement that excludes it from the Open Source Initiative license approval. Even though you can freely download, modify, and redistribute code due to its specific community license it’s not strictly considered open source.<sup>10</sup>
 
-Databricks is another major company in the ML and data engineering field. Databricks has Apache Spark, Delta Lake, Unity Catalog, End to end MLOps, and Delta Sharing available as open-source. [^11]
+Databricks is another major company in the ML and data engineering field. Databricks has Apache Spark, Delta Lake, Unity Catalog, End to end MLOps, and Delta Sharing available as open-source.<sup>11</sup>
 
-MongoDB is a source-available cross platform document oriented database program. Under the MongoDB company is their open-source ML platform MindsDB. They only allow small scale testing until you have to pay as you go for the pro membership. [^12]
+MongoDB is a source-available cross platform document oriented database program. Under the MongoDB company is their open-source ML platform MindsDB. They only allow small scale testing until you have to pay as you go for the pro membership.<sup>12</sup>
 
 
 ## Results
@@ -108,15 +108,15 @@ With over 10000 organizations using the Hugging Face platform and their prioriti
 
 Companies in this field use metrics such as number of active users, net promoter score, revenue, downloads, uploads, number of models in library. 
 
-Hugging Face has a library with 120000 pre-trained models and 20000 datasets. 10 million in revenue in 2021, and estimates for 2022 revenue are between 25-50 million. 10000 companies using the platform. Website traffic averages over 20 million hits a month. [^13]
+Hugging Face has a library with 120000 pre-trained models and 20000 datasets. 10 million in revenue in 2021, and estimates for 2022 revenue are between 25-50 million. 10000 companies using the platform. Website traffic averages over 20 million hits a month.<sup>13</sup>
 
-Relative to their competitors Confluent, Databricks, and MongoDB Hugging Face has significantly less revenue through 2022. This is in part due to their focus on creating a robust open source platform. They are ahead of Confluent for companies using their platform, and only slightly behind Databricks. Confluent has 2,216 companies using their service and Databricks has 10,728. They are significantly behind MongoDB that has a total of 59,999 companies using their NoSQL database. I would rank Hugging face solidly in the middle of their competitors, and seeing as the ML and AI fields that have been around for a long time, but have become household discussion this year, the next two years will be pivotal to Hugging Face if they can get their revenue and company usage up. [^16]
+Relative to their competitors Confluent, Databricks, and MongoDB Hugging Face has significantly less revenue through 2022. This is in part due to their focus on creating a robust open source platform. They are ahead of Confluent for companies using their platform, and only slightly behind Databricks. Confluent has 2,216 companies using their service and Databricks has 10,728. They are significantly behind MongoDB that has a total of 59,999 companies using their NoSQL database. I would rank Hugging face solidly in the middle of their competitors, and seeing as the ML and AI fields that have been around for a long time, but have become household discussion this year, the next two years will be pivotal to Hugging Face if they can get their revenue and company usage up.<sup>16</sup>
 
 ## Recommendations
 
 **New Product and Service Recommendations**
 
-I would recommend adding in a learning platform that would allow users to pay a monthly subscription and they can use the Hugging Face platform products included in the Pro Account plan and have access to ML, NLP, and AI experts to answer questions work through problems in models they are working on. In addition there would be self guided courses on working with the open source library and tutoring sessions available. [^14]
+I would recommend adding in a learning platform that would allow users to pay a monthly subscription and they can use the Hugging Face platform products included in the Pro Account plan and have access to ML, NLP, and AI experts to answer questions work through problems in models they are working on. In addition there would be self guided courses on working with the open source library and tutoring sessions available.<sup>14</sup>
 
 **Additional benefits to Hugging Face**
 
@@ -129,7 +129,7 @@ This additional service would have a learning management platform, they could ei
 **Why are these technologies appropriate for your solution?**
 
 An open source learning platform with integrated AI would be a natural fit with Hugging Faces current offerings and their vision of: 
-> democratizing the field of artificial intelligence together with the community.” [^15] 
+> democratizing the field of artificial intelligence together with the community.”<sup>15</sup>
 
 Democratizing the field of AI cannot stop at open sourcing the databases and code, it also should include training and application of this information across the workforce. As AI becomes a standard across business fields from medicine to factories it will become even more critical that we train and adapt the current workforce and next generation to keep up with the technology. 
 
@@ -138,35 +138,35 @@ Democratizing the field of AI cannot stop at open sourcing the databases and cod
 
 ## References
 
-[<sup>1</sup>] : https://www.techtarget.com/whatis/definition/Hugging-Face 
+<sup>1</sup>https://www.techtarget.com/whatis/definition/Hugging-Face 
 
-[^2] : https://en.wikipedia.org/wiki/Hugging_Face#:~:text=The%20company%20was%20founded%20in,chatbot%20app%20targeted%20at%20teenagers.
+<sup>2</sup> [Hugging face Wiki](https://en.wikipedia.org/wiki/Hugging_Face#:~:text=The%20company%20was%20founded%20in,chatbot%20app%20targeted%20at%20teenagers.)
 
-[^3] : https://www.forbes.com/sites/kenrickcai/2022/05/09/the-2-billion-emoji-hugging-face-wants-to-be-launchpad-for-a-machine-learning-revolution/?sh=1ec9a403f732
+<sup>3</sup> https://www.forbes.com/sites/kenrickcai/2022/05/09/the-2-billion-emoji-hugging-face-wants-to-be-launchpad-for-a-machine-learning-revolution/?sh=1ec9a403f732
 
-[^4] : https://salesforceventures.com/perspectives/welcome-hugging-face/#:~:text=Since%20then%2C%20Hugging%20Face%20has,%2C%20datasets%2C%20and%20other%20resources.
+<sup>4</sup> https://salesforceventures.com/perspectives/welcome-hugging-face/#:~:text=Since%20then%2C%20Hugging%20Face%20has,%2C%20datasets%2C%20and%20other%20resources.
 
-[^5] : https://medium.com/@shixiangtech2019/deep-dive-on-hugging-face-87cfd122c1a4
+<sup>5</sup> https://medium.com/@shixiangtech2019/deep-dive-on-hugging-face-87cfd122c1a4
 
-[^6] : https://www.namepepper.com/hugging-face-valuation
+<sup>6</sup> https://www.namepepper.com/hugging-face-valuation
 
-[^7] : https://himalayas.app/companies/hugging-face/tech-stack 
+<sup>7</sup> https://himalayas.app/companies/hugging-face/tech-stack 
 
-[^8] : https://en.wikipedia.org/wiki/Transformer_(machine_learning_model) 
+<sup>8</sup> https://en.wikipedia.org/wiki/Transformer_(machine_learning_model) 
 
-[^9] : https://mobidev.biz/blog/future-machine-learning-trends-impact-business
+<sup>9</sup> https://mobidev.biz/blog/future-machine-learning-trends-impact-business
 
-[^10] : https://stackoverflow.com/questions/35896524/is-the-confluent-platform-based-on-kafka-free-open-source
+<sup>10</sup> https://stackoverflow.com/questions/35896524/is-the-confluent-platform-based-on-kafka-free-open-source
 
-[^11] : https://medium.com/@gjbmurugan/opensource-databricks-vs-managed-databricks-cbfc7ffae247#:~:text=Databricks%20Key%20components%20%E2%80%94%20available%20as%20open%20source&text=Some%20of%20these%20key%20components,on%20Cloud%20as%20managed%20service. 
+<sup>11</sup> https://medium.com/@gjbmurugan/opensource-databricks-vs-managed-databricks-cbfc7ffae247#:~:text=Databricks%20Key%20components%20%E2%80%94%20available%20as%20open%20source&text=Some%20of%20these%20key%20components,on%20Cloud%20as%20managed%20service. 
 
-[^12] : https://www.mongodb.com/blog/post/turning-mongodb-into-predictive-database
+<sup>12</sup> https://www.mongodb.com/blog/post/turning-mongodb-into-predictive-database
 
-[^13] : https://www.namepepper.com/hugging-face-valuation#demographic-stats
+<sup>13</sup> https://www.namepepper.com/hugging-face-valuation#demographic-stats
 
-[^14] https://huggingface.co/pricing#pro
+<sup>14</sup> https://huggingface.co/pricing#pro
 
-[^15] https://huggingface.co/blog/cv_state
+<sup>15</sup> https://huggingface.co/blog/cv_state
 
-[^16] Data gathered on companies revenue from 6sense: 
-https://6sense.com/tech/big-data-analytics/databricks-market-share
+<sup>16</sup> Data gathered on companies revenue from 6sense:
+  https://6sense.com/tech/big-data-analytics/databricks-market-share
